@@ -1,0 +1,5 @@
+*.xlsx
+node_modules
+config.js
+.DS_Store
+*.zip
