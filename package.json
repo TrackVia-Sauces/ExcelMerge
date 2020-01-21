@@ -1,0 +1,16 @@
+{
+  "name": "ExcelMerge",
+  "version": "1.0.0",
+  "description": "merge documents into .xlsx files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TrackVia",
+  "license": "Apache",
+  "dependencies": {
+    "dateformat": "2.0.0",
+    "exceljs": "^3.6.0",
+    "trackvia-api": "^1.7.1"
+  }
+}
